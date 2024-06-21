@@ -53,5 +53,82 @@
     "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hotel_jeddah_trident.jpg?raw=true",
     "Latitude": 21.485811,
     "Longitude": 39.192505
+  },
+  {
+    "Name": "Anjum Hotel Makkah",
+    "Categories": "Luxury, Family",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Pool, Gym, Spa, Restaurant",
+    "RoomTypes": "Single, Double, Suite, Family",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/anjum_hotel.jpg?raw=true",
+    "Latitude": 21.418889,
+    "Longitude": 39.826111
+  },
+  {
+    "Name": "Hilton Suites Makkah",
+    "Categories": "Luxury, Business",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Business Center, Gym, Restaurant",
+    "RoomTypes": "Single, Double, Suite, Business Suite",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hilton_suites.jpg?raw=true",
+    "Latitude": 21.418000,
+    "Longitude": 39.819000
+  },
+  {
+    "Name": "Makkah Clock Royal Tower",
+    "Categories": "Luxury, Family",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Pool, Gym, Restaurant, Spa",
+    "RoomTypes": "Single, Double, Suite, Family",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/clock_tower.jpg?raw=true",
+    "Latitude": 21.420000,
+    "Longitude": 39.826000
+  },
+  {
+    "Name": "Madinah Mövenpick Hotel",
+    "Categories": "Luxury, Family",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Pool, Gym, Spa",
+    "RoomTypes": "Single, Double, Suite, Family",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/madinah_movenpick.jpg?raw=true",
+    "Latitude": 24.480206,
+    "Longitude": 39.610226
+  },
+  {
+    "Name": "Dar Al Iman InterContinental",
+    "Categories": "Luxury, Family",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Pool, Gym, Spa, Restaurant",
+    "RoomTypes": "Single, Double, Suite, Family",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/dar_al_iman.jpg?raw=true",
+    "Latitude": 24.467205,
+    "Longitude": 39.611107
+  },
+  {
+    "Name": "Shaza Al Madina",
+    "Categories": "Luxury, Business",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Business Center, Gym, Restaurant",
+    "RoomTypes": "Single, Double, Suite, Business Suite",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/shaza_al_madina.jpg?raw=true",
+    "Latitude": 24.468611,
+    "Longitude": 39.611944
+  },
+  {
+    "Name": "The Oberoi Madina",
+    "Categories": "Luxury, Family",
+    "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Pool, Gym, Restaurant, Spa",
+    "RoomTypes": "Single, Double, Suite, Family",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/oberoi_madina.jpg?raw=true",
+    "Latitude": 24.474167,
+    "Longitude": 39.610278
   }
 ]
