@@ -3,32 +3,55 @@
     "Name": "Hotel Al Haram",
     "Categories": "Luxury, Family",
     "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Pool, Gym, Spa",
+    "RoomTypes": "Single, Double, Suite, Family",
     "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hotel_al_haram.jpg?raw=true",
-    "Latitude": 24.467011,
-    "Longitude": 39.611521
+    "Latitude": 24.467010,
+    "Longitude": 39.611522
   },
   {
     "Name": "Hotel Al Massa",
     "Categories": "Economy, Family",
     "Stars": 3,
+    "PriceRange": "Budget",
+    "Amenities": "Free WiFi, Free Parking, Breakfast Included",
+    "RoomTypes": "Single, Double, Family",
     "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hotel_al_massa.jpg?raw=true",
-    "Latitude": 21.422510,
-    "Longitude": 39.826168
+    "Latitude": 21.423510,
+    "Longitude": 39.827168
   },
   {
     "Name": "Hotel Pullman Zamzam",
     "Categories": "Luxury, Business",
     "Stars": 5,
+    "PriceRange": "Luxury",
+    "Amenities": "Free WiFi, Business Center, Gym, Restaurant",
+    "RoomTypes": "Single, Double, Suite, Business Suite",
     "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hotel_pullman_zamzam.jpg?raw=true",
-    "Latitude": 21.422487,
-    "Longitude": 39.825183
+    "Latitude": 21.418693,
+    "Longitude": 39.819248
   },
   {
     "Name": "Hotel Al Safwah Royale Orchid",
     "Categories": "Luxury, Family",
     "Stars": 4,
+    "PriceRange": "Mid-Range",
+    "Amenities": "Free WiFi, Pool, Gym, Restaurant, Spa",
+    "RoomTypes": "Single, Double, Suite, Family",
     "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hotel_al_safwah.jpg?raw=true",
-    "Latitude": 21.420693,
-    "Longitude": 39.826168
+    "Latitude": 21.418594,
+    "Longitude": 39.826169
+  },
+  {
+    "Name": "Hotel Jeddah Trident",
+    "Categories": "Business, Family",
+    "Stars": 4,
+    "PriceRange": "Medium",
+    "Amenities": "Free WiFi, Pool, Fitness center, Airport shuttle",
+    "RoomTypes": "Standard Room, Business Suite, Executive Room",
+    "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/hotel_jeddah_trident.jpg?raw=true",
+    "Latitude": 21.485811,
+    "Longitude": 39.192505
   }
 ]
