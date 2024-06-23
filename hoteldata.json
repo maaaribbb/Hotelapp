@@ -33,7 +33,7 @@
     "Longitude": 39.819248
   },
   {
-    "Name": "Hotel Al Safwah Royale Orchid",
+    "Name": "Hotel Al Safwah Royale",
     "Categories": "Luxury, Family",
     "Stars": 4,
     "PriceRange": "Mid-Range",
@@ -111,9 +111,9 @@
   },
   {
     "Name": "Shaza Al Madina",
-    "Categories": "Luxury, Business",
+    "Categories": "Business, Luxury",
     "Stars": 5,
-    "PriceRange": "Luxury",
+    "PriceRange": "Medium",
     "Amenities": "Free WiFi, Business Center, Gym, Restaurant",
     "RoomTypes": "Single, Double, Suite, Business Suite",
     "Image": "https://github.com/maaaribbb/Hotelapp/blob/main/shaza_al_madina.jpg?raw=true",
